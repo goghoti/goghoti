@@ -7,7 +7,7 @@
 - 👨‍💻 Security will always be a passion and not my profession 
 
 
-![goghoti's github stats](https://github-readme-stats.vercel.app/api?username=goghoti&&hide=issues,prs)
+![goghoti's github stats](https://github-readme-stats.vercel.app/api?username=goghoti&hide=issues,prs&&theme=dark)
 
 
 <!---
