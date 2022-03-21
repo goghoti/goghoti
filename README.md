@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @goghoti
+- 👋 Hi, I’m @goghoti finder of things, internet introvert, and knower of secrets  
 - 👀 I’m interested in detection engineering, security content development and threat hunting 
 - 🌱 I’m currently learning osint & malware analysis automation 
-- 💞️ I’m looking to collaborate on rule respositories/detection logic creation 
-- 📫 Content posted to this github does not reflect my employers opionion or status 
+- 💞️ Looking to collaborate on rule respositories/detection logic creation  
+- ⚡ Content posted to this github does not reflect my employers opionion or status 
+- 👨‍💻 Security will always be a passion and not my profession 
 
 <!---
 goghoti/goghoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
