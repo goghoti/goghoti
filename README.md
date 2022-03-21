@@ -6,9 +6,9 @@
 - ⚡ Content posted to this github does not reflect my employers opionion or status 
 - 👨‍💻 Security will always be a passion and not my profession 
 
-<h2 align="center">
+
 ![goghoti's github stats](https://github-readme-stats.vercel.app/api?username=goghoti&&hide=issues,prs)
-</h2>
+
 
 <!---
 goghoti/goghoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
