@@ -1,6 +1,7 @@
-<h1 align="center">👋 Hi, I’m @goghoti</h1>
+<h1 align="left">👋 Hi, I’m @goghoti</h1>
 
-<h3 align="center">finder of things, internet introvert, and knower of secrets </h3>
+<h3 align="left">finder of things, internet introvert, and knower of secrets </h3>
+
 
 - 👀 I’m interested in detection engineering, security content development and threat hunting 
 - 🌱 I’m currently learning osint & malware analysis automation 
