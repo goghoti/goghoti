@@ -12,6 +12,8 @@
 
 <br />
 
+<h2 align="left">MITRE Project Coverage</h2>
+
 ![MITRE TTP Coverage](https://github.com/goghoti/goghoti/blob/main/misc/ProjectCoverage.PNG)
 
 
