@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I’m @goghoti</h1>
+<h1 align="center">👋 Hi, I’m @goghoti</h1>
 
 - 👀 I’m interested in detection engineering, security content development and threat hunting 
 - 🌱 I’m currently learning osint & malware analysis automation 
