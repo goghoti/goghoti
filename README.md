@@ -10,7 +10,7 @@
 
 ![goghoti's github stats](https://github-readme-stats.vercel.app/api?username=goghoti&hide=issues,prs,stars&&theme=dark)
 
-![MITRE TTP Coverage]
+![MITRE TTP Coverage](https://github.com/goghoti/goghoti/blob/main/MITRECoverage.PNG)
 
 
 <!---
