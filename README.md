@@ -4,13 +4,15 @@
 - 🌱 I’m currently learning osint & malware analysis automation 
 - 💞️ Looking to collaborate on rule respositories/detection logic creation  
 - ⚡ Content posted to this github does not reflect my employers opionion or status 
-- 👨‍💻 Security will always be a passion and not my profession 
+- 👨‍💻 Security will always be a passion and not my profession the goal of this page is to give back to the community 
 
 <br />
 
 ![goghoti's github stats](https://github-readme-stats.vercel.app/api?username=goghoti&hide=issues,prs,stars&&theme=dark)
 
-![MITRE TTP Coverage](https://github.com/goghoti/goghoti/blob/main/MITRECoverage.PNG)
+<br />
+
+![MITRE TTP Coverage](https://github.com/goghoti/goghoti/blob/main/misc/ProjectCoverage.PNG)
 
 
 <!---
