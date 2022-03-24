@@ -4,7 +4,7 @@
 - 🌱 Currently learning osint & malware analysis automation 
 - 💞️ Looking to collaborate on rule respositories/detection logic creation  
 - ⚡ Content posted to this github does not reflect my employers opionion or status 
-- 👨‍💻 Security will always be a passion the goal of this page is to give back to the community 
+- 👨‍💻 Security will always be a passion the goal of this page is to give back to the community. 
 
 <br />
 
