@@ -12,7 +12,7 @@
 
 <h2 align="center">ATT&CK Project Coverage</h2>
 
-![MITRE TTP Coverage](https://github.com/goghoti/goghoti/blob/main/misc/ProjectCoveragev4.PNG)
+![MITRE TTP Coverage](https://github.com/goghoti/goghoti/blob/main/misc/ProjectCoveragev5.PNG)
 
 
 <!---
